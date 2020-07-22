@@ -1,2 +1,1 @@
-# Pavean.github.io
-My site on GitHub
+# Pavean.github.io - My site on GitHub
